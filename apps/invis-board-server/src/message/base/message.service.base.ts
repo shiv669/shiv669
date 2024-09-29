@@ -15,6 +15,14 @@ import {
   Message as PrismaMessage,
   KeyFragment as PrismaKeyFragment,
 } from "@prisma/client";
+import { MessageEncryptionInputDto } from "../MessageEncryptionInputDto";
+import { MessageEncryptionOutputDto } from "../MessageEncryptionOutputDto";
+import { MessageFragmentationInputDto } from "../MessageFragmentationInputDto";
+import { MessageFragmentationOutputDto } from "../MessageFragmentationOutputDto";
+import { MessageRetrievalInputDto } from "../MessageRetrievalInputDto";
+import { MessageRetrievalOutputDto } from "../MessageRetrievalOutputDto";
+import { GovernanceVotingInputDto } from "../GovernanceVotingInputDto";
+import { GovernanceVotingOutputDto } from "../GovernanceVotingOutputDto";
 
 export class MessageServiceBase {
   constructor(protected readonly prisma: PrismaService) {}
@@ -50,5 +58,25 @@ export class MessageServiceBase {
         where: { id: parentId },
       })
       .keyFragments(args);
+  }
+  async EncryptMessage(
+    args: MessageEncryptionInputDto
+  ): Promise<MessageEncryptionOutputDto> {
+    throw new Error("Not implemented");
+  }
+  async FragmentMessage(
+    args: MessageFragmentationInputDto
+  ): Promise<MessageFragmentationOutputDto> {
+    throw new Error("Not implemented");
+  }
+  async RetrieveMessage(
+    args: MessageRetrievalInputDto
+  ): Promise<MessageRetrievalOutputDto> {
+    throw new Error("Not implemented");
+  }
+  async SubmitVote(
+    args: GovernanceVotingInputDto
+  ): Promise<GovernanceVotingOutputDto> {
+    throw new Error("Not implemented");
   }
 }

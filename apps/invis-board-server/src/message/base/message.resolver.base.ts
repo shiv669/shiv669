@@ -28,6 +28,14 @@ import { UpdateMessageArgs } from "./UpdateMessageArgs";
 import { DeleteMessageArgs } from "./DeleteMessageArgs";
 import { KeyFragmentFindManyArgs } from "../../keyFragment/base/KeyFragmentFindManyArgs";
 import { KeyFragment } from "../../keyFragment/base/KeyFragment";
+import { MessageEncryptionInputDto } from "../MessageEncryptionInputDto";
+import { MessageEncryptionOutputDto } from "../MessageEncryptionOutputDto";
+import { MessageFragmentationInputDto } from "../MessageFragmentationInputDto";
+import { MessageFragmentationOutputDto } from "../MessageFragmentationOutputDto";
+import { MessageRetrievalInputDto } from "../MessageRetrievalInputDto";
+import { MessageRetrievalOutputDto } from "../MessageRetrievalOutputDto";
+import { GovernanceVotingInputDto } from "../GovernanceVotingInputDto";
+import { GovernanceVotingOutputDto } from "../GovernanceVotingOutputDto";
 import { MessageService } from "../message.service";
 @common.UseGuards(GqlDefaultAuthGuard, gqlACGuard.GqlACGuard)
 @graphql.Resolver(() => Message)
@@ -162,5 +170,37 @@ export class MessageResolverBase {
     }
 
     return results;
+  }
+
+  @graphql.Mutation(() => MessageEncryptionOutputDto)
+  async EncryptMessage(
+    @graphql.Args()
+    args: MessageEncryptionInputDto
+  ): Promise<MessageEncryptionOutputDto> {
+    return this.service.EncryptMessage(args);
+  }
+
+  @graphql.Mutation(() => MessageFragmentationOutputDto)
+  async FragmentMessage(
+    @graphql.Args()
+    args: MessageFragmentationInputDto
+  ): Promise<MessageFragmentationOutputDto> {
+    return this.service.FragmentMessage(args);
+  }
+
+  @graphql.Query(() => MessageRetrievalOutputDto)
+  async RetrieveMessage(
+    @graphql.Args()
+    args: MessageRetrievalInputDto
+  ): Promise<MessageRetrievalOutputDto> {
+    return this.service.RetrieveMessage(args);
+  }
+
+  @graphql.Mutation(() => GovernanceVotingOutputDto)
+  async SubmitVote(
+    @graphql.Args()
+    args: GovernanceVotingInputDto
+  ): Promise<GovernanceVotingOutputDto> {
+    return this.service.SubmitVote(args);
   }
 }

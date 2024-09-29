@@ -29,6 +29,14 @@ import { MessageUpdateInput } from "./MessageUpdateInput";
 import { KeyFragmentFindManyArgs } from "../../keyFragment/base/KeyFragmentFindManyArgs";
 import { KeyFragment } from "../../keyFragment/base/KeyFragment";
 import { KeyFragmentWhereUniqueInput } from "../../keyFragment/base/KeyFragmentWhereUniqueInput";
+import { MessageEncryptionInputDto } from "../MessageEncryptionInputDto";
+import { MessageEncryptionOutputDto } from "../MessageEncryptionOutputDto";
+import { MessageFragmentationInputDto } from "../MessageFragmentationInputDto";
+import { MessageFragmentationOutputDto } from "../MessageFragmentationOutputDto";
+import { MessageRetrievalInputDto } from "../MessageRetrievalInputDto";
+import { MessageRetrievalOutputDto } from "../MessageRetrievalOutputDto";
+import { GovernanceVotingInputDto } from "../GovernanceVotingInputDto";
+import { GovernanceVotingOutputDto } from "../GovernanceVotingOutputDto";
 
 @swagger.ApiBearerAuth()
 @common.UseGuards(defaultAuthGuard.DefaultAuthGuard, nestAccessControl.ACGuard)
@@ -322,5 +330,73 @@ export class MessageControllerBase {
       data,
       select: { id: true },
     });
+  }
+
+  @common.Post("/messages/encrypt")
+  @swagger.ApiOkResponse({
+    type: MessageEncryptionOutputDto,
+  })
+  @swagger.ApiNotFoundResponse({
+    type: errors.NotFoundException,
+  })
+  @swagger.ApiForbiddenResponse({
+    type: errors.ForbiddenException,
+  })
+  async EncryptMessage(
+    @common.Body()
+    body: MessageEncryptionInputDto
+  ): Promise<MessageEncryptionOutputDto> {
+    return this.service.EncryptMessage(body);
+  }
+
+  @common.Post("/messages/fragment")
+  @swagger.ApiOkResponse({
+    type: MessageFragmentationOutputDto,
+  })
+  @swagger.ApiNotFoundResponse({
+    type: errors.NotFoundException,
+  })
+  @swagger.ApiForbiddenResponse({
+    type: errors.ForbiddenException,
+  })
+  async FragmentMessage(
+    @common.Body()
+    body: MessageFragmentationInputDto
+  ): Promise<MessageFragmentationOutputDto> {
+    return this.service.FragmentMessage(body);
+  }
+
+  @common.Get("/messages/retrieve")
+  @swagger.ApiOkResponse({
+    type: MessageRetrievalOutputDto,
+  })
+  @swagger.ApiNotFoundResponse({
+    type: errors.NotFoundException,
+  })
+  @swagger.ApiForbiddenResponse({
+    type: errors.ForbiddenException,
+  })
+  async RetrieveMessage(
+    @common.Body()
+    body: MessageRetrievalInputDto
+  ): Promise<MessageRetrievalOutputDto> {
+    return this.service.RetrieveMessage(body);
+  }
+
+  @common.Post("/voting/submit")
+  @swagger.ApiOkResponse({
+    type: GovernanceVotingOutputDto,
+  })
+  @swagger.ApiNotFoundResponse({
+    type: errors.NotFoundException,
+  })
+  @swagger.ApiForbiddenResponse({
+    type: errors.ForbiddenException,
+  })
+  async SubmitVote(
+    @common.Body()
+    body: GovernanceVotingInputDto
+  ): Promise<GovernanceVotingOutputDto> {
+    return this.service.SubmitVote(body);
   }
 }
