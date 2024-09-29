@@ -1,0 +1,57 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DB_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Message {
+  content       String?
+  createdAt     DateTime           @default(now())
+  id            String             @id @default(cuid())
+  keyFragments  KeyFragment[]
+  recipient     String?
+  recipientUser String?
+  sender        String?
+  senderUser    String?
+  status        EnumMessageStatus?
+  updatedAt     DateTime           @updatedAt
+}
+
+model Node {
+  address      String?
+  createdAt    DateTime      @default(now())
+  id           String        @id @default(cuid())
+  keyFragments KeyFragment[]
+  status       Boolean?
+  updatedAt    DateTime      @updatedAt
+}
+
+model KeyFragment {
+  createdAt    DateTime @default(now())
+  fragmentData String?
+  id           String   @id @default(cuid())
+  message      Message? @relation(fields: [messageId], references: [id])
+  messageId    String?
+  node         Node?    @relation(fields: [nodeId], references: [id])
+  nodeId       String?
+  updatedAt    DateTime @updatedAt
+}
+
+model User {
+  createdAt DateTime @default(now())
+  email     String?  @unique
+  firstName String?
+  id        String   @id @default(cuid())
+  lastName  String?
+  password  String
+  roles     Json
+  updatedAt DateTime @updatedAt
+  username  String   @unique
+}
+
+enum EnumMessageStatus {
+  Option1
+}
