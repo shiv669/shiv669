@@ -32,14 +32,6 @@
   <li><strong>Arctean</strong> — A generational wealth management system focused on helping families simplify long-term financial planning.</li>
 </ul>
 
----
-
-<h2 id="other-old-side-projects">Old Projects</h2>
-<ul>
-  <li><a href="https://discordwhois.xyz">DiscordWhois</a> ━ A tool to look up Discord users and servers.</li>
-  <li><a href="https://random.rest">RandomAPI</a> (RaPI) ━ An API that delivers random quotes, images, and other content.</li>
-  <li>…plus some other side experiments I don’t talk about but secretly learned a lot from.</li>
-</ul>
 
 ---
 
