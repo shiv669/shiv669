@@ -97,19 +97,8 @@ VS Code        █████████████████
 JavaScript   ██████████
 Python       ███████░░
 HTML/CSS     ████░░░░░
+C++          ███░░░░░
 Other        ██░░░░░░░
 </code></pre>
 <!--END_SECTION:waka-->
 
----
-
-<h2 id="credits">Credits</h2>
-<ul>
-  <li>Stats generated using <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a></li>
-  <li>Badges provided by <a href="https://shields.io/">Shields.io</a></li>
-</ul>
-
----
-
-<p>Credit: <a href="https://github.com/edgycoder">edgycoder</a></p>
-<p>Last Edited on: 10/05/2025</p>
