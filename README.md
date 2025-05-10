@@ -1,5 +1,5 @@
 <h2 id="hi-there">Hi there 👋</h2>
-<p>I'm Shivam Gawali — also known online as EdgyCoder (formerly Kawaaii Programming).</p>
+<p>I'm Shivam Gawali — also known online as Glorious Vulture.</p>
 
 <ul>
   <li>👨‍💻 I'm a web developer and AI engineering student currently exploring full-stack development with React, Node.js, and Next.js.</li>
