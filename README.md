@@ -14,13 +14,13 @@
 
 <h2 id="social-media">Social Media</h2>
 <p>
-<a href="https://discord.gg/44yKPxm"><img src="https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord"></a>
-<a href="https://twitter.com/EdgyCoder"><img src="https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter Follow"></a>
-<a href="https://stackoverflow.com/users/12418331/kawaaii"><img src="https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff" alt="Stack Overflow reputation"></a>
-<a href="https://www.reddit.com/user/Kawaaii-Programming"><img src="https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff" alt="Reddit User Karma"></a><br>
-<a href="https://keybase.io/kawaaii"><img src="https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge" alt="Keybase PGP"></a>
-<a href="https://hub.docker.com/u/kawaaii"><img src="https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff" alt="DockerHub Profile"></a>
-<a href="https://gitter.im/edgy-irrelevant/community"><img src="https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge" alt="Gitter"></a>
+<a href="https://discord.gg"><img src="https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord"></a>
+<a href="https://twitter.com"><img src="https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter Follow"></a>
+<a href="https://stackoverflow.com"><img src="https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff" alt="Stack Overflow reputation"></a>
+<a href="https://www.reddit.com/"><img src="https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff" alt="Reddit User Karma"></a><br>
+<a href="https://keybase.io/"><img src="https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge" alt="Keybase PGP"></a>
+<a href="https://hub.docker.com"><img src="https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff" alt="DockerHub Profile"></a>
+<a href="https://gitter.im"><img src="https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge" alt="Gitter"></a>
 </p>
 
 ---
