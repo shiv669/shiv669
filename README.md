@@ -2,8 +2,9 @@
 <p>I'm Shivam Gawali — also known online as Glorious Vulture.</p>
 
 <ul>
-  <li>👨‍💻 I'm a web developer and AI engineering student currently exploring full-stack development with React, Node.js, and Next.js.</li>
+  <li>👨‍💻 I'm a Video editor, web developer and AI engineering student currently exploring full-stack development with React, Node.js, and Next.js.</li>
   <li>🌱 I started with WordPress, then transitioned into custom development. Still learning, building, and figuring out where I fit best in tech.</li>
+  <li>After Effects, Da Vinci Resolve and CapCut.<li>
   <li>🎮 I like gaming, but I never know what to play and usually quit halfway through. Classic.</li>
   <li>👯 I don’t collaborate much (yet), but I enjoy coding discussions and sharing random ideas that sometimes make sense.</li>
   <li>📫 I rarely post, don't blog, and my Twitter is mostly where I park thoughts while waiting for things to load.</li>
