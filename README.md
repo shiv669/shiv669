@@ -1,6 +1,10 @@
 <h2 id="hi-there">Hi there 👋</h2>
 <p>I'm Shivam Gawali — also known online as Glorious Vulture.</p>
-
+<p align="center">
+  <a href="https://badgr.com/public/assertions/kBD_NDMTRpObrMyD7mIE1w" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/kBD_NDMTRpObrMyD7mIE1w/image" width="150" alt="Postman Student Expert Badge"/>
+  </a>
+</p>
 <ul>
   <li>👨‍💻 I'm a Video editor, web developer and AI engineering student currently exploring full-stack development with React, Node.js, and Next.js.</li>
   <li>🌱 I started with WordPress, then transitioned into custom development. Still learning, building, and figuring out where I fit best in tech.</li>
