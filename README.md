@@ -1,3 +1,4 @@
+[![An image of @shiv669's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiv669)](https://holopin.io/@shiv669)
 <h2 id="hi-there">Hi there 👋</h2>
 <p>I'm Shivam Gawali — also known online as Glorious Vulture.</p>
 <p align="center">
