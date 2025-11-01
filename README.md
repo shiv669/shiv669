@@ -1,102 +1,39 @@
 [![An image of @shiv669's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiv669)](https://holopin.io/@shiv669)
 <h2 id="hi-there">Hi there 👋</h2>
-<p>I'm Shivam Gawali — also known online as Glorious Vulture.</p>
+
 <p align="center">
   <a href="https://badgr.com/public/assertions/kBD_NDMTRpObrMyD7mIE1w" target="_blank">
     <img src="https://api.badgr.io/public/assertions/kBD_NDMTRpObrMyD7mIE1w/image" width="150" alt="Postman Student Expert Badge"/>
   </a>
 </p>
-<ul>
-  <li>👨‍💻 I'm a Video editor, web developer and AI engineering student currently exploring full-stack development with React, Node.js, and Next.js.</li>
-  <li>🌱 I started with WordPress, then transitioned into custom development. Still learning, building, and figuring out where I fit best in tech.</li>
-  <li>After Effects, Da Vinci Resolve and CapCut.<li>
-  <li>🎮 I like gaming, but I never know what to play and usually quit halfway through. Classic.</li>
-  <li>👯 I don’t collaborate much (yet), but I enjoy coding discussions and sharing random ideas that sometimes make sense.</li>
-  <li>📫 I rarely post, don't blog, and my Twitter is mostly where I park thoughts while waiting for things to load.</li>
-  <li>❓ Want to know more? Scroll down and click something — I'm usually online somewhere.</li>
-</ul>
+
+# 💫 About Me:
+🔭 **I'm currently working on** building a strong foundation in machine learning and AI—specifically diving into transformers and implementing core ML/deep learning algorithms. I'm intentional about this: I don't just chase trends, I build real projects with what I learn. Full-stack development is my playground (Node.js, React, TypeScript), but I'm pushing myself to reach architect-level thinking. Advanced DSA keeps my problem-solving sharp. Hackathons and open source contributions keep me grounded in real-world challenges.<br><br>👯 **I'm looking to collaborate on** projects where quality and impact matter. I want to work with teams building AI solutions, scalable systems, or open source initiatives where I can add genuine value. I'm not just showing up—I'm here to lead efforts and mentor when I can.<br><br>🤝 **I'm looking for help with** understanding production-grade ML systems, architecture decisions at scale, and deepening my knowledge of how transformers actually work under the hood. Feedback from senior engineers who've shipped real ML products would be invaluable.<br><br>🌱 **I'm currently learning** advanced transformer architectures, system design at scale, and the bridge between theoretical ML and production reality. Learning by building, not just reading.<br><br>💬 **Ask me about** Node.js architecture, React patterns, DSA solutions, full-stack workflows, or how I'm approaching the ML learning curve. I'm also always up for discussing open source strategy or mentoring approaches.<br><br>⚡ **Fun fact** I edit videos professionally too (After Effects, Da Vinci, CapCut)—that background actually made me obsessed with performance and optimization. Also, I'm a gamer who never finishes games, which tells you everything about my personality.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thpersnshivam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-gawali-0b7122224) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gawalishivam5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30580137) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamgawali585@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shiv669&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shiv669&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv669&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shiv669&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shiv669&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shiv669&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<h2 id="social-media">Social Media</h2>
-<p>
-<a href="https://discord.gg"><img src="https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord"></a>
-<a href="https://twitter.com"><img src="https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff" alt="Twitter Follow"></a>
-<a href="https://stackoverflow.com"><img src="https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff" alt="Stack Overflow reputation"></a>
-<a href="https://www.reddit.com/"><img src="https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff" alt="Reddit User Karma"></a><br>
-<a href="https://keybase.io/"><img src="https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge" alt="Keybase PGP"></a>
-<a href="https://hub.docker.com"><img src="https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff" alt="DockerHub Profile"></a>
-<a href="https://gitter.im"><img src="https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge" alt="Gitter"></a>
-</p>
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thpersnshivam) 
 
----
-
-<h2 id="current-projects">Current Projects (In Progress)</h2>
-<ul>
-  <li><strong>Trinera</strong> — An AI-powered pest detection system that helps farmers detect crop issues early using computer vision.</li>
-  <li><strong>Ethical Mind Sync™</strong> — A wearable neurotechnology project for enhancing focus and cognitive states using ethical brain-computer interfacing.</li>
-  <li><strong>Arctean</strong> — A generational wealth management system focused on helping families simplify long-term financial planning.</li>
-</ul>
-
-
----
-
-<h2 id="my-weekly-waka-stats">My Weekly Waka Stats</h2>
-<!--START_SECTION:waka-->
-<p><img src="http://img.shields.io/badge/Profile%20Views-13-blue" alt="Profile Views"></p>
-
-<p><strong>🐱 My GitHub Data</strong></p>
-<blockquote>
-  <p>🏆 Less than 30 contributions (working on it!)</p>
-  <p>📦 Around 10–15 repositories — mostly experiments, ideas, and in-progress work</p>
-  <p>🚧 Learning in public — one commit at a time</p>
-</blockquote>
-
-<p><strong>I’m an Early 🐤</strong></p>
-<pre><code>
-🌞 Morning    10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-🌆 Daytime    74 commits     █████████████              49.33%
-🌃 Evening    45 commits     ████████                    30.00%
-🌙 Night      21 commits     ███                         14.00%
-</code></pre>
-
-<p><strong>📅 I’m Most Productive on Tuesdays</strong></p>
-<pre><code>
-Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░       8.67%
-Tuesday      40 commits     ██████                      26.67%
-Wednesday    16 commits     ██                         10.67%
-Thursday     32 commits     ████                       21.33%
-Friday        8 commits     ░░░░                        5.33%
-Saturday      7 commits     ░░░░                        4.67%
-Sunday       34 commits     █████                      22.67%
-</code></pre>
-
-<p><strong>📊 This Week I Spent My Time On</strong></p>
-<pre><code>
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Languages:
-JavaScript     ██████████
-Python         ███████░░
-HTML/CSS       ████░░░░░
-Other          ██░░░░░░░
-
-🔥 Editors:
-VS Code        █████████████████
-
-🐱‍💻 Most Active Projects:
-- Trinera
-- EthicalMindSync
-- Arctean
-</code></pre>
-
-<p><strong>I Mostly Code in JavaScript</strong></p>
-<pre><code>
-JavaScript   ██████████
-Python       ███████░░
-HTML/CSS     ████░░░░░
-C++          ███░░░░░
-Other        ██░░░░░░░
-</code></pre>
-<!--END_SECTION:waka-->
-
+  
