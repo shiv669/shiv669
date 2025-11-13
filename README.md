@@ -224,7 +224,7 @@ Advanced **transformer architectures**, **system design at scale**, and the brid
 
 </div>
 
-> I **edit videos professionally** too (After Effects, Da Vinci, CapCut)—that background actually made me **obsessed with performance and optimization**. Also, I'm a **gamer who never finishes games**, which tells you everything about my personality. 🎮✨
+> I **edit videos professionally** too (After Effects, Da Vinci, CapCut)—that background actually made me **obsessed with performance and optimization**. Also, I'm a gamer who **never** finishes games, which tells you everything about my personality. 🎮✨
 
 ```ascii
     ┌─────────────────────────────────────┐
