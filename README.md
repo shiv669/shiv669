@@ -1,3 +1,5 @@
+[![An image of @shiv669's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiv669)](https://holopin.io/@shiv669)
+
 ## Hi, I’m Shivam 👋
 
 I’m a college student studying Artificial Intelligence and Data Science, with a strong interest in software engineering fundamentals and backend system design.
@@ -14,7 +16,7 @@ I enjoy building small systems to understand how they work internally. I focus o
 - Understanding how data modeling choices affect correctness over time  
 - Learning AI and ML fundamentals alongside core software engineering concepts  
 
-Most of my projects are learning-focused and intentionally documented to show design decisions, mistakes, and corrections.
+Most of my projects are learning focused and intentionally documented to show design decisions, mistakes, and corrections.
 
 ---
 
@@ -44,7 +46,8 @@ I prefer understanding fundamentals deeply before moving to abstractions.
 Alongside engineering, I also work as a freelance video editor.  
 I enjoy storytelling, pacing, and visual clarity, which strongly influences how I think about software structure and user experience.
 
-- Instagram: https://www.instagram.com/YOUR_USERNAME  
+- Instagram: https://www.instagram.com/thpersnshivam  
+- LinkedIn: https://www.linkedin.com/in/shivam-gawali-0b7122224  
 
 ---
 
@@ -54,8 +57,6 @@ I participate in open source communities and learning driven programs.
 
 - **Hacktoberfest participant**  
   Contributed to open source repositories during Hacktoberfest and learned collaborative development through issues, pull requests, and reviews.
-
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-orange)
 
 ---
 
