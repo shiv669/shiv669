@@ -25,6 +25,10 @@ Most of my projects are learning focused and intentionally documented to show de
 - **Code Review System**  
   A system design focused project exploring how code review workflows preserve context over time using immutable revisions, explicit state transitions, and revision scoped feedback.
 
+
+- **Multimodal Audit Engine**
+  A system that automatically analyzes YouTube videos against company compliance guidelines. You provide a YouTube link, and the system downloads the video, extracts everything said and written on screen, analyzes it against your compliance rules, and produces a detailed report indicating whether the video complies or lists specific violations.
+
 Pinned repositories reflect what I’m actively exploring, not finished products.
 
 ---
