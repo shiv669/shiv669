@@ -2,7 +2,7 @@
 
 ## Hi, I’m Shivam 👋
 
-I’m a college student studying Artificial Intelligence and Data Science, with a strong interest in software engineering fundamentals and backend system design.
+I’m a college student studying Artificial Intelligence and Data Science, with a strong interest in software engineering fundamentals ,backend system design and applied AI & Machine Learning.
 
 I enjoy building small systems to understand how they work internally. I focus on correctness, clarity, and learning through iteration rather than feature count or polish.
 
@@ -31,7 +31,7 @@ Pinned repositories reflect what I’m actively exploring, not finished products
 
 ### 🛠️ Technical skills (working knowledge)
 
-- **Languages:** JavaScript, C and C++, SQL  
+- **Languages:** JavaScript,Python, C and C++, SQL  
 - **Backend:** Node.js, Express, REST APIs  
 - **Databases:** SQLite, MySQL, relational data modeling  
 - **Frontend:** React with Vite, basic UI integration  
